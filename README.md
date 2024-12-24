@@ -37,3 +37,9 @@ A+(B+C)
 <br> <br/>
 
 Por medio de la propiedad asociativa hemos demostrado que la sumatoria es igual
+<br> <br/>
+
+1.4  Sumar A+B 
+<br> <br/>
+
+Para poder sumar matrices, deben tener las mismas dimensiones! En este caso, la matriz A es de 2x2 (2 filas y 2 columnas) y la matriz B es de 2x3 (2 filas y 3 columnas).
