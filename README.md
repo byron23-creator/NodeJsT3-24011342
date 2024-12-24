@@ -10,13 +10,13 @@ Primera Parte
     A+B
     <img width="655" alt="Captura de pantalla 2024-12-24 a la(s) 3 27 37 p  m" src="https://github.com/user-attachments/assets/1c8ed6b0-baad-4482-893b-c95d1502886e" />
 
-    (A+B)+C
+(A+B)+C
     <img width="646" alt="Captura de pantalla 2024-12-24 a la(s) 3 27 44 p  m" src="https://github.com/user-attachments/assets/77aaf786-2d8a-49cc-9d26-ef710ac296ca" />
-    
-    B+C
+
+B+C
     <img width="641" alt="Captura de pantalla 2024-12-24 a la(s) 3 29 38 p  m" src="https://github.com/user-attachments/assets/5ff951ea-33b9-4622-a077-696753d352f9" />
-    
-    A+(B+C)
+
+A+(B+C)
     <img width="538" alt="Captura de pantalla 2024-12-24 a la(s) 3 29 44 p  m" src="https://github.com/user-attachments/assets/a0150dcc-8c9f-4abb-87d6-03d68db7f4fa" />
 
-    Por medio de la propiedad asociativa hemos demostrado que la sumatoria es igual
+Por medio de la propiedad asociativa hemos demostrado que la sumatoria es igual
